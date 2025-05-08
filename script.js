@@ -70,7 +70,9 @@ function showDuel(id1, id2) {
 
         let videoElement;
 
-        if (video || music.mp3 === null) {
+        if (!music.video && !music.mp3) {
+            videoElement = "<div>Video and MP3 not available</div>";
+        } else if (music.video && (video || music.mp3 === null)) {
             if (music.video.includes("youtube.com")) {
                 const videoId = new URL(music.video).searchParams.get("v");
                 videoElement = `<iframe src="https://www.youtube-nocookie.com/embed/${videoId}" frameborder="0" allowfullscreen></iframe>`;
@@ -83,9 +85,9 @@ function showDuel(id1, id2) {
             } else {
                 videoElement = "<div>Vidéo non disponible</div>";
             }
-        } else if (music.mp3 !== null) {
-            if (music.video.includes("animemusicquiz")) {
-                videoElement = `<audio controls><source src="https://${region}dist.animemusicquiz.com/${music.video.split('/').pop()}" type="audio/mp3"></audio>`;
+        } else if (music.mp3) {
+            if (music.mp3.includes("animemusicquiz")) {
+                videoElement = `<audio controls><source src="https://${region}dist.animemusicquiz.com/${music.mp3.split('/').pop()}" type="audio/mp3"></audio>`;
             } else {
                 videoElement = `<audio controls><source src="${music.mp3}" type="audio/mp3"></audio>`;
             }
