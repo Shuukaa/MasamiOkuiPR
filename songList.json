@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "anime": "ADVANCED V.G 2 - OP",
+    "name": "endless life by Masami Okui",
+    "video": "https://files.catbox.moe/qfg04r.webm",
+    "mp3": "https://files.catbox.moe/b8z0qt.mp3"
+  },
+  {
+    "id": 2,
+    "anime": "Akazukin Chacha - ED3",
+    "name": "Youkoso Magical School e by Masami Suzuki & Magical Study",
+    "video": "https://files.catbox.moe/0pj16h.webm",
+    "mp3": "https://files.catbox.moe/9skbvb.mp3"
+  },
+  {
+    "id": 3,
+    "anime": "Akihabara Dennou-gumi - OP",
+    "name": "Birth by Masami Okui",
+    "video": "https://files.catbox.moe/kcxwhn.webm",
+    "mp3": "https://files.catbox.moe/7cik5v.mp3"
+  },
+  {
+    "id": 4,
+    "anime": "Akihabara Dennou-gumi - ED1",
+    "name": "Taiyou no Hana by Masami Okui",
+    "video": "https://files.catbox.moe/t9a61m.webm",
+    "mp3": "https://files.catbox.moe/5fz5vz.mp3"
+  },
+  {
+    "id": 5,
+    "anime": "Akihabara Dennou-gumi - ED2",
+    "name": "Taiyou no Hana ~Latin Jazz version~ by Masami Okui",
+    "video": "https://files.catbox.moe/77b8ke.webm",
+    "mp3": "https://files.catbox.moe/dbyibh.mp3"
+  },
+  {
+    "id": 6,
+    "anime": "Akihabara Dennou-gumi - ED3",
+    "name": "Taiyou no Hana ~Classic version~ by Masami Okui",
+    "video": "https://files.catbox.moe/7dbuci.webm",
+    "mp3": "https://files.catbox.moe/jfq8hb.mp3"
+  },
+  {
+    "id": 7,
+    "anime": "Akihabara Dennou-gumi - ED5",
+    "name": "Birth-Epilogue.ver.- by Masami Okui",
+    "video": "https://files.catbox.moe/j57iic.webm",
+    "mp3": "https://files.catbox.moe/ehj492.mp3"
+  },
+  {
+    "id": 8,
+    "anime": "Akihabara Dennou-gumi - INS",
+    "name": "AKA by Masami Okui",
+    "video": "https://files.catbox.moe/dblswn.webm",
+    "mp3": "https://files.catbox.moe/6ysnuo.mp3"
+  },
+  {
+    "id": 9,
+    "anime": "Akihabara Dennou-gumi: 2011-nen no Natsuyasumi - ED",
+    "name": "HOT SPICE by Masami Okui",
+    "video": "https://files.catbox.moe/q4lkcw.webm",
+    "mp3": "https://files.catbox.moe/5v0vw9.mp3"
+  },
+  {
+    "id": 10,
+    "anime": "Akihabara Dennou-gumi: 2011-nen no Natsuyasumi - INS",
+    "name": "Last Scene by Masami Okui",
+    "video": "https://files.catbox.moe/xhrh7i.webm",
+    "mp3": "https://files.catbox.moe/afhesl.mp3"
+  },
+  {
+    "id": 11,
+    "anime": "Ayakashi - ED",
+    "name": "Kagaribi by Masami Okui",
+    "video": "https://files.catbox.moe/f59qcg.webm",
+    "mp3": "https://files.catbox.moe/hidov7.mp3"
+  },
+  {
+    "id": 12,
+    "anime": "Bakuretsu Hunter - ED",
+    "name": "MASK by Masami Okui & Kasumi Matsumura",
+    "video": "https://files.catbox.moe/h9m7ti.webm",
+    "mp3": "https://files.catbox.moe/slbuqd.mp3"
+  },
+  {
+    "id": 13,
+    "anime": "burst error: EVE The 1st - OP",
+    "name": "TAKE MY BREATH AWAY by Masami Okui",
+    "video": "https://files.catbox.moe/urr79e.webm",
+    "mp3": "https://files.catbox.moe/akxh4b.mp3"
+  },
+  {
+    "id": 14,
+    "anime": "Compiler - OP",
+    "name": "I WAS BORN TO FALL IN LOVE by Masami Okui",
+    "video": "https://files.catbox.moe/2x23wl.webm",
+    "mp3": "https://files.catbox.moe/gjhghx.mp3"
+  },
+  {
+    "id": 15,
+    "anime": "Compiler - ED",
+    "name": "FULL UP MIND by Masami Okui",
+    "video": "https://files.catbox.moe/p76sxp.webm",
+    "mp3": "https://files.catbox.moe/46k913.mp3"
+  },
+  {
+    "id": 16,
+    "anime": "Cutey Honey - OP",
+    "name": "Cutey Honey by Masami Okui",
+    "video": "https://files.catbox.moe/vr0502.webm",
+    "mp3": "https://files.catbox.moe/blozak.mp3"
+  },
+  {
+    "id": 17,
+    "anime": "Devilman - ED2",
+    "name": "Kyou mo Dokoka de Devilman by Masami Okui",
+    "video": "https://files.catbox.moe/djh9ql.webm",
+    "mp3": "https://files.catbox.moe/q62qww.mp3"
+  },
+  {
+    "id": 18,
+    "anime": "Di Gi Charat - OP",
+    "name": "only one, No.1 by Masami Okui",
+    "video": "https://files.catbox.moe/j6kwjt.webm",
+    "mp3": "https://files.catbox.moe/dwd70o.mp3"
+  },
+  {
+    "id": 19,
+    "anime": "Di Gi Charat Christmas Special - OP",
+    "name": "Megami ni Naritai ~for a yours~ by Masami Okui",
+    "video": "https://files.catbox.moe/z0td1z.webm",
+    "mp3": "https://files.catbox.moe/cq7hh7.mp3"
+  },
+  {
+    "id": 20,
+    "anime": "Di Gi Charat Summer Special - OP",
+    "name": "CUTIE by Masami Okui",
+    "video": "https://files.catbox.moe/345vb2.webm",
+    "mp3": "https://files.catbox.moe/rwr3zf.mp3"
+  },
+  {
+    "id": 21,
+    "anime": "Fantasia - ED",
+    "name": "Dare yori mo Zutto... by Masami Okui",
+    "video": "https://files.catbox.moe/9q4gdn.webm",
+    "mp3": "https://files.catbox.moe/3ss4t5.mp3"
+  },
+  {
+    "id": 22,
+    "anime": "Final Approach 2 ~1st priority~ Portable - OP",
+    "name": "Starting Over by Masami Okui",
+    "video": "https://files.catbox.moe/x6x01f.webm",
+    "mp3": "https://files.catbox.moe/3z5j6j.mp3"
+  },
+  {
+    "id": 23,
+    "anime": "Final Approach 2 ~1st Priority~ Portable - INS",
+    "name": "GRADUATION by Masami Okui",
+    "video": "https://files.catbox.moe/4xlcqf.webm",
+    "mp3": "https://files.catbox.moe/9f74ce.mp3"
+  },
+  {
+    "id": 24,
+    "anime": "Final Approach 2 ~1st Priority~ Portable - ED",
+    "name": "Beloved by Masami Okui",
+    "video": "https://files.catbox.moe/3uxpt4.webm",
+    "mp3": "https://files.catbox.moe/f7i419.mp3"
+  },
+  {
+    "id": 25,
+    "anime": "Fuujin Ryouiki Eretzvaju - OP",
+    "name": "Kiss in the dark by Masami Okui",
+    "video": "https://files.catbox.moe/lypv5k.webm",
+    "mp3": "https://files.catbox.moe/kpxhui.mp3"
+  },
+  {
+    "id": 26,
+    "anime": "Fuyu no Rondo - OP",
+    "name": "Melted Snow by Masami Okui",
+    "video": "https://files.catbox.moe/1k0jat.webm",
+    "mp3": "https://files.catbox.moe/lfntpa.mp3"
+  },
+  {
+    "id": 27,
+    "anime": "Fuyu no Rondo - INS",
+    "name": "Fuyu no Himawari by Masami Okui",
+    "video": "https://files.catbox.moe/geauix.mp3",
+    "mp3": "https://files.catbox.moe/geauix.mp3"
+  },
+  {
+    "id": 28,
+    "anime": "Galaxy Angel A - ED3",
+    "name": "In the Chaos by JAM Project featuring Masami Okui",
+    "video": "https://naedist.animemusicquiz.com/zqpwam.webm",
+    "mp3": "https://naedist.animemusicquiz.com/6e4gmp.mp3"
+  },
+  {
+    "id": 29,
+    "anime": "Garo: Guren no Tsuki - OP3",
+    "name": "Guren no Tsuki ~Kakusareshi Yami Monogatari~ by Masami Okui (JAM Project)",
+    "video": "https://files.catbox.moe/eaor71.webm",
+    "mp3": "https://files.catbox.moe/oiauwq.mp3"
+  },
+  {
+    "id": 30,
+    "anime": "Garo: Vanishing Line - ED1",
+    "name": "Sophia by Masami Okui",
+    "video": "https://files.catbox.moe/b8le73.webm",
+    "mp3": "https://files.catbox.moe/9n7c9e.mp3"
+  },
+  {
+    "id": 31,
+    "anime": "Ghost Sweeper Mikami - OP",
+    "name": "GHOST SWEEPER by Masami Okui",
+    "video": "https://files.catbox.moe/9ty42h.webm",
+    "mp3": "https://files.catbox.moe/5y350u.mp3"
+  },
+  {
+    "id": 32,
+    "anime": "Grenadier: Hohoemi no Senshi - OP",
+    "name": "KOHAKU by Masami Okui",
+    "video": "https://files.catbox.moe/5cc0xe.webm",
+    "mp3": "https://files.catbox.moe/fw8pa6.mp3"
+  },
+  {
+    "id": 33,
+    "anime": "Grisaia no Rakuen - OP",
+    "name": "FISSION by Masami Okui",
+    "video": "https://files.catbox.moe/gieaw6.webm",
+    "mp3": "https://files.catbox.moe/ur83sx.mp3"
+  },
+  {
+    "id": 34,
+    "anime": "GS Mikami: Gokuraku Daisakusen! - ED",
+    "name": "My Jolly Days by Masami Okui",
+    "video": "https://files.catbox.moe/otfyu7.webm",
+    "mp3": "https://files.catbox.moe/pyjr4z.mp3"
+  },
+  {
+    "id": 35,
+    "anime": "GS Mikami: Gokuraku Daisakusen! - INS",
+    "name": "BEATS the BAND by Masami Okui",
+    "video": "https://files.catbox.moe/10ful8.webm",
+    "mp3": "https://files.catbox.moe/24bd10.mp3"
+  },
+  {
+    "id": 36,
+    "anime": "Haite Kudasai, Takamine-san - OP",
+    "name": "Baby Baby Baby by Masami Okui with Bonjour Suzuki",
+    "video": "https://naedist.animemusicquiz.com/x1bqcn.webm",
+    "mp3": "https://files.catbox.moe/kc2nc7.mp3"
+  },
+  {
+    "id": 37,
+    "anime": "Hello, good-bye - OP",
+    "name": "Good-bye Crisis by Masami Okui",
+    "video": "https://files.catbox.moe/f9j5o1.webm",
+    "mp3": "https://files.catbox.moe/kaxusn.mp3"
+  },
+  {
+    "id": 38,
+    "anime": "Hunter Hero - OP",
+    "name": "Shizuka no Honoo by Masami Okui",
+    "video": "https://files.catbox.moe/dlzihl.webm",
+    "mp3": "https://files.catbox.moe/dtqjtd.mp3"
+  },
+  {
+    "id": 39,
+    "anime": "Jungle de Ikou! - OP",
+    "name": "J by Masami Okui",
+    "video": "https://files.catbox.moe/z0iwdy.webm",
+    "mp3": "https://files.catbox.moe/fn9q28.mp3"
+  },
+  {
+    "id": 40,
+    "anime": "Jungle de Ikou! - ED",
+    "name": "spirit of the globe by Masami Okui",
+    "video": "https://files.catbox.moe/ng635p.webm",
+    "mp3": "https://files.catbox.moe/823sra.mp3"
+  },
+  {
+    "id": 41,
+    "anime": "Junketsu no Mahou Shoujo -UNTITLED MAGICAL GIRL- - OP",
+    "name": "Kibou no Tsubasa by Masami Okui",
+    "video": "https://files.catbox.moe/rs4i31.webm",
+    "mp3": "https://files.catbox.moe/36wp3z.mp3"
+  },
+  {
+    "id": 42,
+    "anime": "Kaleido Star: Aratanaru Tsubasa - OP3",
+    "name": "Tattoo Kiss by r.o.r/s",
+    "video": "https://files.catbox.moe/5c4gy1.webm",
+    "mp3": "https://files.catbox.moe/y7h25u.mp3"
+  },
+  {
+    "id": 43,
+    "anime": "Kaleido Star: Aratanaru Tsubasa - ED3",
+    "name": "escape by r.o.r/s",
+    "video": "https://files.catbox.moe/87o1f8.webm",
+    "mp3": "https://files.catbox.moe/3ah2f5.mp3"
+  },
+  {
+    "id": 44,
+    "anime": "Kanokon: Esuii - INS",
+    "name": "Time Limit by Masami Okui",
+    "video": "https://files.catbox.moe/71avgm.mp3",
+    "mp3": "https://files.catbox.moe/71avgm.mp3"
+  },
+  {
+    "id": 45,
+    "anime": "Kidou Senkan Nadesico - OP",
+    "name": "YOU GET TO BURNING by Masami Okui",
+    "video": "https://files.catbox.moe/np4ya8.webm",
+    "mp3": "https://files.catbox.moe/7jxhoj.mp3"
+  },
+  {
+    "id": 46,
+    "anime": "Kidou Shin Seiki Gundam X - OP1",
+    "name": "DREAMS by Masami Okui",
+    "video": "https://files.catbox.moe/xoackq.webm",
+    "mp3": "https://files.catbox.moe/xae1s4.mp3"
+  },
+  {
+    "id": 47,
+    "anime": "Koisuru Otome to Shugo no Tate -The shield of AIGIS- - OP",
+    "name": "LOVE SHIELD by Masami Okui",
+    "video": "https://files.catbox.moe/mn0w9c.webm",
+    "mp3": "https://files.catbox.moe/ncne1p.mp3"
+  },
+  {
+    "id": 48,
+    "anime": "Kore ga Watashi no Goshujin-sama - OP",
+    "name": "TRUST by Masami Okui",
+    "video": "https://files.catbox.moe/td3z25.webm",
+    "mp3": "https://files.catbox.moe/k8yn0e.mp3"
+  },
+  {
+    "id": 49,
+    "anime": "Kyoukaisenjou no Horizon II - ED2",
+    "name": "-Side SunRise- Sora no Uta by Masami Okui",
+    "video": "https://files.catbox.moe/wpgbdb.webm",
+    "mp3": "https://files.catbox.moe/axtqio.mp3"
+  },
+  {
+    "id": 50,
+    "anime": "Langrisser Re:Incarnation -Tensei- - OP",
+    "name": "Blood Blade -Hikari to Yami no Kanata ni- by Masami Okui",
+    "video": "https://files.catbox.moe/1reazh.webm",
+    "mp3": "https://files.catbox.moe/0untjq.mp3"
+  },
+  {
+    "id": 51,
+    "anime": "Last Order - OP",
+    "name": "Abyss by Masami Okui",
+    "video": "https://files.catbox.moe/9x8wps.webm",
+    "mp3": "https://files.catbox.moe/frqjlv.mp3"
+  },
+  {
+    "id": 52,
+    "anime": "Lost Universe - INS",
+    "name": "spicy essence by Masami Okui",
+    "video": "https://files.catbox.moe/7bpmc9.webm",
+    "mp3": "https://files.catbox.moe/nx63rb.mp3"
+  },
+  {
+    "id": 53,
+    "anime": "Lupin III - ED3",
+    "name": "LOVE SQUALL by Masami Okui",
+    "video": "https://files.catbox.moe/vfu6hr.webm",
+    "mp3": "https://files.catbox.moe/2qxkbw.mp3"
+  },
+  {
+    "id": 54,
+    "anime": "Lupin III: Kiri no Elusive - ED",
+    "name": "Lupin III Ai no Theme by Masami Okui",
+    "video": "https://files.catbox.moe/k05efu.webm",
+    "mp3": "https://files.catbox.moe/wvv8px.mp3"
+  },
+  {
+    "id": 55,
+    "anime": "Mahoutsukai Tai! - ED",
+    "name": "Mata Ashita by MASAMI",
+    "video": "https://naedist.animemusicquiz.com/ruvnkn.webm",
+    "mp3": "https://naedist.animemusicquiz.com/8jsslc.mp3"
+  },
+  {
+    "id": 56,
+    "anime": "Maitetsu - Last Run!! - ED1",
+    "name": "Indivisible Love by Masami Okui",
+    "video": "https://files.catbox.moe/pcai39.webm",
+    "mp3": "https://files.catbox.moe/5hz67m.mp3"
+  },
+  {
+    "id": 57,
+    "anime": "Megami Tengoku - OP",
+    "name": "GET MY WAY by Masami Okui",
+    "video": "https://files.catbox.moe/6kqfah.webm",
+    "mp3": "https://files.catbox.moe/vksevc.mp3"
+  },
+  {
+    "id": 58,
+    "anime": "Megami Tengoku - ED",
+    "name": "DREAMING HEART by Masami Okui",
+    "video": "https://files.catbox.moe/eh2g03.webm",
+    "mp3": "https://files.catbox.moe/x5ru8q.mp3"
+  },
+  {
+    "id": 59,
+    "anime": "Muteki Kanban Musume - OP",
+    "name": "WILD SPICE by Masami Okui",
+    "video": "https://files.catbox.moe/foirlr.webm",
+    "mp3": "https://files.catbox.moe/kb8g62.mp3"
+  },
+  {
+    "id": 60,
+    "anime": "Muv-Luv UNLIMITED - OP",
+    "name": "sion by Masami Okui",
+    "video": "https://files.catbox.moe/kdi2s6.webm",
+    "mp3": "https://files.catbox.moe/02hj1i.mp3"
+  },
+  {
+    "id": 61,
+    "anime": "Muv-Luv Alternative: photonmelodies♮ - OP",
+    "name": "Hikari no Hana by Masami Okui",
+    "video": "https://files.catbox.moe/joav3s.webm",
+    "mp3": "https://files.catbox.moe/6lai6f.mp3"
+  },
+  {
+    "id": 62,
+    "anime": "Muv-Luv Alternative: Total Eclipse AVN - OP",
+    "name": "INSANITY by Masami Okui",
+    "video": "https://files.catbox.moe/0cvfra.webm",
+    "mp3": "https://files.catbox.moe/lyl0fc.mp3"
+  },
+  {
+    "id": 63,
+    "anime": "Muv-Luv Alternative: Total Eclipse AVN - ED1",
+    "name": "TOTAL ECLIPSE by Masami Okui",
+    "video": "https://files.catbox.moe/g3jb5z.webm",
+    "mp3": "https://files.catbox.moe/g2fpj4.mp3"
+  },
+  {
+    "id": 64,
+    "anime": "Night Wizard The Animation - OP",
+    "name": "KURENAI by Masami Okui",
+    "video": "https://files.catbox.moe/yi17ar.webm",
+    "mp3": "https://files.catbox.moe/0o3h8p.mp3"
+  },
+  {
+    "id": 65,
+    "anime": "Night Wizard: The VIDEO GAME ~Denial of the World~ - ED",
+    "name": "Fates by Masami Okui",
+    "video": "https://files.catbox.moe/2feh1y.mp4",
+    "mp3": "https://files.catbox.moe/1smtkr.mp3"
+  },
+  {
+    "id": 66,
+    "anime": "Ontama! - OP",
+    "name": "Miracle Upper WL by Masami Okui feat. May'n",
+    "video": "https://files.catbox.moe/yfouy4.webm",
+    "mp3": "https://files.catbox.moe/n9mfvs.mp3"
+  },
+  {
+    "id": 67,
+    "anime": "Princess Frontier Portable - OP",
+    "name": "Dive to Future by Masami Okui",
+    "video": "https://files.catbox.moe/mqpptp.webm",
+    "mp3": "https://files.catbox.moe/dzs6k0.mp3"
+  },
+  {
+    "id": 68,
+    "anime": "Puchi Pri*Yucie - ED",
+    "name": "Ienai Kara -Piano quintetto- by Masami Okui",
+    "video": "https://files.catbox.moe/felrkc.webm",
+    "mp3": "https://files.catbox.moe/jhndgm.mp3"
+  },
+  {
+    "id": 69,
+    "anime": "Ray The Animation - OP",
+    "name": "zero -G- by Masami Okui",
+    "video": "https://files.catbox.moe/plb3tq.webm",
+    "mp3": "https://files.catbox.moe/hzkkyx.mp3"
+  },
+  {
+    "id": 70,
+    "anime": "Ray The Animation - ED",
+    "name": "Yuunagi by Masami Okui",
+    "video": "https://files.catbox.moe/xu7tua.webm",
+    "mp3": "https://files.catbox.moe/ni5n1e.mp3"
+  },
+  {
+    "id": 71,
+    "anime": "Reiwa no Di Gi Charat - OP",
+    "name": "Aimaisa, Koufukuron by Masami Okui",
+    "video": "https://files.catbox.moe/40eiih.webm",
+    "mp3": "https://files.catbox.moe/qjkbxf.mp3"
+  },
+  {
+    "id": 72,
+    "anime": "Routes PE/PORTABLE - OP",
+    "name": "Remote Viewing by Masami Okui",
+    "video": "https://files.catbox.moe/11o3kj.webm",
+    "mp3": "https://files.catbox.moe/011uwq.mp3"
+  },
+  {
+    "id": 73,
+    "anime": "Saber Marionette J - OP",
+    "name": "Successful Mission by Masami Okui",
+    "video": "https://files.catbox.moe/lcv5mf.webm",
+    "mp3": "https://files.catbox.moe/s8c20v.mp3"
+  },
+  {
+    "id": 74,
+    "anime": "Saber Marionette J to X - INS",
+    "name": "Yakusoku no Chi by Masami Okui",
+    "video": "https://files.catbox.moe/xoj6h4.webm",
+    "mp3": "https://files.catbox.moe/thp4df.mp3"
+  },
+  {
+    "id": 75,
+    "anime": "Saint Beast: Kouin Jojishi Tenshi Tan - OP",
+    "name": "Divine love by Masami Okui",
+    "video": "https://files.catbox.moe/m1vhae.webm",
+    "mp3": "https://files.catbox.moe/jr50oc.mp3"
+  },
+  {
+    "id": 76,
+    "anime": "Scrapped Princess - OP",
+    "name": "Little Wing by JAM Project featuring Masami Okui",
+    "video": "https://naedist.animemusicquiz.com/dmpcwz.webm",
+    "mp3": "https://naedist.animemusicquiz.com/1wcppb.mp3"
+  },
+  {
+    "id": 77,
+    "anime": "Shaman King - OP2",
+    "name": "Northern Lights by Masami Okui",
+    "video": "https://files.catbox.moe/drvbbr.webm",
+    "mp3": "https://files.catbox.moe/7pyb8p.mp3"
+  },
+  {
+    "id": 78,
+    "anime": "Shin Koihime†Musou: Otome Tairan - OP",
+    "name": "Renka Tairan by Masami Okui",
+    "video": "https://files.catbox.moe/mids6h.webm",
+    "mp3": "https://files.catbox.moe/xnmpn4.mp3"
+  },
+  {
+    "id": 79,
+    "anime": "Shinsetsu Ryouki no Ori - OP",
+    "name": "Automation by Masami Okui",
+    "video": "https://files.catbox.moe/vrfv0j.webm",
+    "mp3": "https://files.catbox.moe/xvdii7.mp3"
+  },
+  {
+    "id": 80,
+    "anime": "Shinseiki Evangelion - INS",
+    "name": "Bay side love story -from Tokyo- by Masami Okui",
+    "video": "https://files.catbox.moe/7idp95.webm",
+    "mp3": "https://files.catbox.moe/vmsa71.mp3"
+  },
+  {
+    "id": 81,
+    "anime": "Shinseiki Evangelion - INS",
+    "name": "FACE by Masami Okui",
+    "video": "https://files.catbox.moe/pcfmzk.webm",
+    "mp3": "https://files.catbox.moe/tzc5eq.mp3"
+  },
+  {
+    "id": 82,
+    "anime": "Shinseiki Evangelion - INS",
+    "name": "Ryoute Ippai no Yume by Masami Okui",
+    "video": "https://files.catbox.moe/lt1xmu.webm",
+    "mp3": "https://files.catbox.moe/2kg33c.mp3"
+  },
+  {
+    "id": 83,
+    "anime": "Shinseiki Evangelion - INS",
+    "name": "Fushigi na Yoru by Masami Okui",
+    "video": "https://files.catbox.moe/nh6lbc.webm",
+    "mp3": "https://files.catbox.moe/cug18d.mp3"
+  },
+  {
+    "id": 84,
+    "anime": "Shinseiki Evangelion - OP",
+    "name": "Zankoku na Tenshi no Thesis by Masami Okui",
+    "video": "https://files.catbox.moe/64i3eg.webm",
+    "mp3": "https://files.catbox.moe/ernpy6.mp3"
+  },
+  {
+    "id": 85,
+    "anime": "Shinseiki Evangelion Gekijouban: Shi to Shinsei - ED",
+    "name": "Tamashii no Refrain by Masami Okui",
+    "video": "https://files.catbox.moe/86nani.webm",
+    "mp3": "https://files.catbox.moe/mih49b.mp3"
+  },
+  {
+    "id": 86,
+    "anime": "Shirobako - OP3",
+    "name": "Takarabako -TREASURE BOX- by Masami Okui",
+    "video": "https://files.catbox.moe/0kadnf.webm",
+    "mp3": "https://files.catbox.moe/kueack.mp3"
+  },
+  {
+    "id": 87,
+    "anime": "Shoujo Kakumei Utena - OP",
+    "name": "Rondo-revolution by Masami Okui",
+    "video": "https://files.catbox.moe/vxotr2.webm",
+    "mp3": "https://files.catbox.moe/fji9pr.mp3"
+  },
+  {
+    "id": 88,
+    "anime": "Shoujo Kakumei Utena - ED3",
+    "name": "Rose & release by Masami Okui",
+    "video": "https://files.catbox.moe/qgitqm.webm",
+    "mp3": "https://files.catbox.moe/mnbike.mp3"
+  },
+  {
+    "id": 89,
+    "anime": "Shoujo Kakumei Utena - ED1",
+    "name": "Truth by Masami Okui",
+    "video": "https://files.catbox.moe/ymj2y9.webm",
+    "mp3": "https://files.catbox.moe/d135rl.mp3"
+  },
+  {
+    "id": 90,
+    "anime": "Shoujo Kakumei Utena: Adolescence Mokushiroku - INS",
+    "name": "Toki ni Ai wa by Masami Okui",
+    "video": "https://files.catbox.moe/b93hme.webm",
+    "mp3": "https://files.catbox.moe/xx1thb.mp3"
+  },
+  {
+    "id": 91,
+    "anime": "Slayers - OP",
+    "name": "Get along by Megumi Hayashibara & Masami Okui",
+    "video": "https://files.catbox.moe/a8zdlz.webm",
+    "mp3": "https://files.catbox.moe/e8h56c.mp3"
+  },
+  {
+    "id": 92,
+    "anime": "Slayers - ED",
+    "name": "KUJIKENAIKARA! by Megumi Hayashibara & Masami Okui",
+    "video": "https://files.catbox.moe/jjyos7.webm",
+    "mp3": "https://files.catbox.moe/ntxuow.mp3"
+  },
+  {
+    "id": 93,
+    "anime": "Slayers Excellent - ED",
+    "name": "Never die by Masami Okui",
+    "video": "https://files.catbox.moe/u96vn9.webm",
+    "mp3": "https://files.catbox.moe/ytdrxm.mp3"
+  },
+  {
+    "id": 94,
+    "anime": "Slayers Next - ED",
+    "name": "Jama wa Sasenai by Masami Okui",
+    "video": "https://files.catbox.moe/z3pi1k.webm",
+    "mp3": "https://files.catbox.moe/aa87v6.mp3"
+  },
+  {
+    "id": 95,
+    "anime": "Slayers Next - OP",
+    "name": "Give a reason by Masami Okui",
+    "video": "https://files.catbox.moe/x88ir9.webm",
+    "mp3": "https://files.catbox.moe/3ue9yv.mp3"
+  },
+  {
+    "id": 96,
+    "anime": "Solty Rei - ED1",
+    "name": "Float ~Sora no Kanata de~ by Masami Okui",
+    "video": "https://files.catbox.moe/8b1qzh.webm",
+    "mp3": "https://files.catbox.moe/knqrvf.mp3"
+  },
+  {
+    "id": 97,
+    "anime": "Sore wa Maichiru Sakura no You ni - OP",
+    "name": "days by Masami Okui",
+    "video": "https://files.catbox.moe/93yetl.webm",
+    "mp3": "https://files.catbox.moe/0fuc7i.mp3"
+  },
+  {
+    "id": 98,
+    "anime": "Sore wa Maichiru Sakura no You ni - INS",
+    "name": "beloved ~Sakura no Kanata e~",
+    "video": "https://files.catbox.moe/jp63y3.mp3",
+    "mp3": "https://files.catbox.moe/jp63y3.mp3"
+  },
+  {
+    "id": 99,
+    "anime": "Soreyuke! Uchuu Senkan Yamamoto Yohko (1999) - OP",
+    "name": "Tenshi no Kyuusoku by Masami Okui",
+    "video": "https://files.catbox.moe/fil3iv.webm",
+    "mp3": "https://files.catbox.moe/k81ixn.mp3"
+  },
+  {
+    "id": 100,
+    "anime": "Soreyuke! Uchuu Senkan Yamamoto Yohko (1999) - ED",
+    "name": "Lululu by Masami Okui",
+    "video": "https://files.catbox.moe/fjfyx4.webm",
+    "mp3": "https://files.catbox.moe/fbf8g4.mp3"
+  },
+  {
+    "id": 101,
+    "anime": "Soreyuke! Uchuu Senkan Yamamoto Yohko (1999) - INS",
+    "name": "eternal promise by Masami Okui",
+    "video": "https://files.catbox.moe/54k270.webm",
+    "mp3": "https://files.catbox.moe/uer6oc.mp3"
+  },
+  {
+    "id": 102,
+    "anime": "Soreyuke! Uchuu Senkan Yamamoto Yohko - ED",
+    "name": "Shake it by Masami Okui",
+    "video": "https://files.catbox.moe/qgopsn.webm",
+    "mp3": "https://files.catbox.moe/qz1ns4.mp3"
+  },
+  {
+    "id": 103,
+    "anime": "Soreyuke! Uchuu Senkan Yamamoto Yohko II - OP",
+    "name": "Souda, Zettai. by Masami Okui",
+    "video": "https://files.catbox.moe/6z7hr7.webm",
+    "mp3": "https://files.catbox.moe/guatgu.mp3"
+  },
+  {
+    "id": 104,
+    "anime": "Super Robot Taisen Original Generation: The Animation - ED1",
+    "name": "Protect You by JAM Project feat. Masaaki Endoh/Masami Okui",
+    "video": "https://files.catbox.moe/64fk4d.webm",
+    "mp3": "https://files.catbox.moe/utpc8u.mp3"
+  },
+  {
+    "id": 105,
+    "anime": "Super Robot Wars Z - ED",
+    "name": "Cosmic Dance by Masami Okui",
+    "video": "https://files.catbox.moe/7amm71.webm",
+    "mp3": "https://files.catbox.moe/kmnssq.mp3"
+  },
+  {
+    "id": 106,
+    "anime": "Tales of Eternia - OP",
+    "name": "Sora ni Kakeru Hashi by Masami Okui",
+    "video": "https://files.catbox.moe/eu7s8g.webm",
+    "mp3": "https://files.catbox.moe/6zo8ai.mp3"
+  },
+  {
+    "id": 107,
+    "anime": "Tales of Eternia - ED",
+    "name": "I'd love you to touch me by Masami Okui",
+    "video": "https://files.catbox.moe/sduavq.webm",
+    "mp3": "https://files.catbox.moe/btkiyt.mp3"
+  },
+  {
+    "id": 108,
+    "anime": "Tanoshii Willow Town - OP",
+    "name": "Yume ni Konnichiwa Willow Town Monogatari by Masami Okui",
+    "video": "https://files.catbox.moe/2jgjjh.webm",
+    "mp3": "https://files.catbox.moe/uqzt72.mp3"
+  },
+  {
+    "id": 109,
+    "anime": "Tanoshii Willow Town - ED",
+    "name": "Liverpool e Oide by Masami Okui",
+    "video": "https://files.catbox.moe/h3ak06.webm",
+    "mp3": "https://files.catbox.moe/o4d27a.mp3"
+  },
+  {
+    "id": 110,
+    "anime": "Uchuu no Kishi Tekkaman Blade 2 - OP",
+    "name": "REINCARNATION by Masami Okui",
+    "video": "https://files.catbox.moe/oo14vm.webm",
+    "mp3": "https://files.catbox.moe/767ozl.mp3"
+  },
+  {
+    "id": 111,
+    "anime": "Uchuu no Kishi Tekkaman Blade 2 - ED1",
+    "name": "It's DESTINY~Yatto Meguriaeta by Masami Okui",
+    "video": "https://files.catbox.moe/kxov7r.webm",
+    "mp3": "https://files.catbox.moe/jzg4uc.mp3"
+  },
+  {
+    "id": 112,
+    "anime": "Uchuu no Kishi Tekkaman Blade 2 - ED2",
+    "name": "Live alone Sennen Tattemo by Masami Okui",
+    "video": "https://files.catbox.moe/59335i.webm",
+    "mp3": "https://files.catbox.moe/adcuda.mp3"
+  },
+  {
+    "id": 113,
+    "anime": "Yu-Gi-Oh! Duel Monsters - OP2",
+    "name": "shuffle by Masami Okui",
+    "video": "https://files.catbox.moe/1ytwdc.webm",
+    "mp3": "https://files.catbox.moe/17iraf.mp3"
+  },
+  {
+    "id": 114,
+    "anime": "Yu-Gi-Oh! Duel Monsters - ED2",
+    "name": "Ano Hi no Gogo by Masami Okui",
+    "video": "https://files.catbox.moe/265e6p.webm",
+    "mp3": "https://files.catbox.moe/5zlsrt.mp3"
+  }
+]
